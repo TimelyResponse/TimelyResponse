@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 ## 💻 Technologies & Tools
 
-- Programming Languages: [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.java.com/)
-- Frameworks & Libraries: [React](https://reactjs.org/), [Vue.js](https://www.djangoproject.com/),[Next.js](https://www.djangoproject.com/),[Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/),
+- Programming Languages: [C#/C++](https://www.python.org/),[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [PHP](https://www.python.org/),[Python](https://www.python.org/),[Ruby](https://www.python.org/),[R](https://www.python.org/),[Java](https://www.java.com/)
+- Frameworks & Libraries: [React](https://reactjs.org/), [Vue.js](https://www.djangoproject.com/),[Next.js](https://www.djangoproject.com/),[Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/),[React Native](https://www.djangoproject.com/),[Flutter](https://www.djangoproject.com/),
 - Databases: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
 - Cloud Platforms: [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/), [Azure](https://azure.microsoft.com/)
 - DevOps: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Jenkins](https://www.jenkins.io/)
