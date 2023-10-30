@@ -1,4 +1,4 @@
-### Hi there,I'm Kota Yamamoto 👋
+### Hi there. 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Here you'll find some of my personal and open-source projects. Feel free to explore, contribute, and connect.
 
