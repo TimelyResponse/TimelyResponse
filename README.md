@@ -15,11 +15,6 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 - [Certified Scrum Developer (CSD)](https://www.scrumalliance.org/get-certified/scrum-developer-certification)
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-
-## 📫 How to Reach Me
-
-You can reach out to me via email at [kotayama950712@gmail.com](mailto:kotayama950712@gmail.com).
-
 ## expertised technologies
 <div style="display: flex; flex-wrap: wrap;">
 
