@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
   
 </div>
-💬 Contact Us 💬
-timelyresponse7@gmail.com
+💬 timely7response@gmail.com 💬
+
 
 Looking forward to collaborating and learning with fellow developers! 😄
